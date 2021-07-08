@@ -206,3 +206,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# My gitignore 
+mydata
+mydata.zip
